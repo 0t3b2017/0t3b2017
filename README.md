@@ -38,9 +38,23 @@ I've been working in the IT area for +10 years and I work as a/an \
 </p>
 <br/>
 
+## ✨ Recent Medals Awarded:
+
+<p align="left">
+  <img height="200" width="200" src="https://desecsecurity.com/academy/uploads/badges/skill_pentest_fundamentals_pro.png" />
+  <img height="200" width="200" src="https://desecsecurity.com/academy/uploads/badges/network_analyst_pro.png" />
+  <img height="200" width="200" src="https://desecsecurity.com/academy/uploads/badges/skill_scripting_programing_pro.png" />
+  <img height="200" width="200" src="https://desecsecurity.com/academy/uploads/badges/skill_ctf_player_pro.png" />
+  <img height="200" width="200" src="https://desecsecurity.com/academy/uploads/badges/skill_opensource_intelligence_pro.png" />
+
+  
+  
+</p>
+
+
 <!-- Social badges section -->
 <!--
-**0t3b2017/0t3b2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**0t3b2017/0t3b2017** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
