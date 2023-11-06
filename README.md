@@ -33,8 +33,8 @@ I've been working in the IT area for +10 years and I work as a/an \
   <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/#1793D1" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/#1793D1" />
   <img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/#1793D1" />  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kibana/#1793D1" />  
   <img height="32" width="32" src="https://cdn.simpleicons.org/logstash/#1793D1" />  
+  <img height="32" width="32" src="https://cdn.simpleicons.org/kibana/#1793D1" />    
 </p>
 <br/>
 
