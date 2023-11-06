@@ -24,17 +24,17 @@ I've been working in the IT area for +10 years and I work as a/an \
 
 ## 💻 Tech Stack:
 <p align="left">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linux/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/windows/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/1793D1" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/1793D1" />  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/logstash/1793D1" />  
-  <img height="32" width="32" src="https://cdn.simpleicons.org/kibana/1793D1" />    
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/python/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/linux/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/windows/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/kalilinux/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/microsoftazure/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/googlecloud/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/maildotru/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/elasticsearch/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/logstash/1793D1" /></code>
+  <code><img height="32" width="32" src="https://cdn.simpleicons.org/kibana/1793D1" /></code>
 </p>
 <br/>
 
