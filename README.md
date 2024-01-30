@@ -46,6 +46,8 @@ I've been working in the IT area for +10 years and I work as a/an \
   <img height="175" width="175" src="https://desecsecurity.com/academy/uploads/badges/skill_scripting_programing_pro.png" />
   <img height="175" width="175" src="https://desecsecurity.com/academy/uploads/badges/skill_ctf_player_pro.png" />
   <img height="175" width="175" src="https://desecsecurity.com/academy/uploads/badges/skill_opensource_intelligence_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/vulnerability_analyst_pro.png" />
+
 
   
   
