@@ -41,13 +41,13 @@ I've been working in the IT area for +10 years and I work as a/an \
 ## ✨ Recent Medals Awarded:
 
 <p align="left">
-  <img height="175" width="175" src="https://desecsecurity.com/academy/uploads/badges/skill_pentest_fundamentals_pro.png" />
-  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/skill_scripting_programing_pro.png" />
-  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/skill_ctf_player_pro.png" />
-  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/skill_opensource_intelligence_pro.png" />
-  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/skill_internal_assessment_pro.png" />
-  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/skill_password_cracker_pro.png" />  
-  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/network_analyst_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/skill_pentest_fundamentals_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/skill_scripting_programing_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/skill_ctf_player_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/skill_opensource_intelligence_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/skill_internal_assessment_pro.png" />
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/skill_password_cracker_pro.png" />  
+  <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/network_analyst_pro.png" />
   <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/vulnerability_analyst_pro.png" />
   <img height="175" width="175" src="https://github.com/0t3b2017/0t3b2017/blob/main/badges/vulnerability_research_pro.png" />  
   
